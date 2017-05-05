@@ -4,4 +4,31 @@
 
 @charset "utf-8";
 
+// override theme variables
+$sans-serif                 : 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, sans-serif;
+
+$primary-color              : #ed0606 !default;
+$success-color              : #62c462 !default;
+$warning-color              : #f89406 !default;
+$danger-color               : #ee5f5b !default;
+$info-color                 : #52adc8 !default;
+
 @import "minimal-mistakes";
+
+// logo
+.head-logo {
+  font-size: 2em;
+  font-weight: bold;
+  color: $primary-color;
+  background: white;
+
+  > span {
+    color: white;
+    background: $primary-color;
+  }
+
+  > small {
+    font-size: 0.5em;
+    margin-left: 2px;
+  }
+}
