@@ -1,14 +1,29 @@
 # main links
 main:
+  - title: 'Hosting'
+    url: /foodsoft-hosting
   - title: 'Github'
     url: https://github.com/foodcoops/foodsoft
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+links:
+  - title: 'Foodsoft'
+    children:
+    - title: 'Hosting'
+      url: /foodsoft-hosting
+    - title: 'Wiki'
+      url: https://github.com/foodcoops/foodsoft/wiki
+    - title: 'Support'
+      url: https://github.com/foodcoops/foodsoft/wiki/Support
+    - title: 'Mailing-list'
+      url: http://foodsoft.51229.x6.nabble.com/foodsoft-discuss-f5.html
+
+  - title: 'German'
+    children:
+    - title: 'Foodcoopedia'
+      url: http://foodcoopedia.de.fcoop.org
+    - title: 'Gründungsleitfaden'
+      url: https://food-coop-einstieg.de/
+    - title: 'foodcoops.at'
+      url: https://foodcoops.at/
+    - title: 'foodcoops.de'
+      url: http://foodcoops.de/
