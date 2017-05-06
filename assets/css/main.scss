@@ -32,3 +32,54 @@ $info-color                 : #52adc8 !default;
     margin-left: 2px;
   }
 }
+
+// homepage
+article.splash > section.page__content > .feature__wrapper:first-child {
+  background-image: url(/assets/images/hands.png);
+  background-position: bottom left;
+
+  > * {
+    background: rgba(255,255,255,0.9); /* fade background */
+    background: linear-gradient(to right, rgba(255,255,255,0.8), white, white);
+  }
+}
+
+.homepage-row {
+  margin-right: 100px;
+
+  > .homepage-cell-1 {
+    float: left;
+    width: 50%;
+    padding-right: 50px;
+  }
+  > .homepage-cell-2 {
+    float: right;
+    width: 49%;
+  }
+
+  .archive__subtitle {
+    margin-top: 0;
+  }
+  .list__item {
+    padding-right: 0;
+    font-size: 0.926em;
+  }
+}
+
+.homepage-topcaption {
+  font-size: 80%;
+  line-height: 1;
+  padding-top: 0.5ex;
+  color: $dark-gray;
+  text-align: center;
+  margin: 0 3em;
+}
+
+// slightly cleaner footer
+.page__footer-follow {
+  float: left;
+}
+.page__footer-copyright {
+  float: right;
+  padding-top: 7px;
+}

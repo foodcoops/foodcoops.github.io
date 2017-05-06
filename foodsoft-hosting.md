@@ -4,6 +4,8 @@ title: Foodsoft hosting
 sidebar:
   nav: links
 ---
+{% include toc %}
+
 So you want to start a food cooperative? Or you're already part of one, but
 would like to have a ordering system that supports what you're doing? Foodsoft
 is a web-based software package offering a product catalog, ordering,
@@ -39,4 +41,5 @@ some technical skills, but allows you to make your own tweaks and modifications.
 And if you need help, the [mailing list](http://foodsoft.51229.x6.nabble.com/foodsoft-discuss-f5.html)
 is always there.
 
+<a href="https://github.com/foodcoops/foodsoft" class="btn btn--inverse"><i class="fa fa-github"></i></a>
 <a href="https://github.com/foodcoops/foodsoft/wiki/Deployment-notes" class="btn btn--inverse">Get going</a>

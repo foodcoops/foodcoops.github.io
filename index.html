@@ -1,6 +1,42 @@
 ---
-layout: home
-author_profile: false
-sidebar:
-  nav: links
+layout: splash
+title: |-
+  Foodsoft <small>- software for food cooperatives</small>
+excerpt: |-
+  Foodsoft is web-based software to manage a non-profit food cooperative
+  (product catalog, ordering, accounting, job scheduling).
+header:
+  overlay_image: /assets/images/headimage.jpg
+  overlay_filter: 0.25
+
+feature_row_desc:
+- excerpt: |-
+    <p>A food cooperative is a group of people that buy food from suppliers of their own
+    choosing. A collective do-it-yourself supermarket.</p>
+
+    <p>Members order their products online and collect them on a specified day. And all put
+    in a bit of work to make that possible. Foodsoft facilitates the process.</p>
 ---
+{% include feature_row id='feature_row_desc' type='left' %}
+
+<div class="homepage-row">
+  <div class="homepage-cell-1">
+    {% if site.posts %}
+      <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].most_recent_post | default: "Most recent post" }}</h3>
+      {% assign post = site.posts[0] %}
+      {% include archive-single.html %}
+    {% endif %}
+
+    <a href="/news" class="btn btn--inverse">More news</a>
+  </div>
+
+  <div class="homepage-cell-2">
+    <div class="homepage-topcaption">
+      <a href="https://vimeo.com/145927538">Watch</a> the introduction to learn more
+      about food cooperatives, and how Foodsoft can help.
+    </div>
+    <a href="https://vimeo.com/145927538?autoplay=1">
+      <img src="/assets/images/vimeo-thumb.png" alt="Foodsoft introduction video">
+    </a>
+  </div>
+</div>
