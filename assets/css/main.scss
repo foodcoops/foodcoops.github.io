@@ -75,6 +75,11 @@ article.splash > section.page__content > .feature__wrapper:first-child {
   margin: 0 3em;
 }
 
+// archive single add date
+.archive__item .archive__item-excerpt {
+  margin-bottom: 0;
+}
+
 // slightly cleaner footer
 .page__footer-follow {
   float: left;
