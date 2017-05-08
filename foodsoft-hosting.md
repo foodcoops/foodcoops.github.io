@@ -7,7 +7,7 @@ sidebar:
 {% include toc %}
 
 So you want to start a food cooperative? Or you're already part of one, but
-would like to have a ordering system that supports what you're doing? Foodsoft
+would like to have an ordering system that supports what you're doing? Foodsoft
 is a web-based software package offering a product catalog, ordering,
 accounting, and job scheduling features.
 

@@ -17,7 +17,7 @@ screen to turn some functionality on or off.
 
 ## Main version
 
-At this moment, there is no official demonstration of the main Foodsoft site. In the
+At this moment, there is no official demonstration of the main Foodsoft software. In the
 meantime, you could try the
 <a href="https://foodsoft-translation.herokuapp.com/" rel="nofollow">installation used for translating</a>.
 
