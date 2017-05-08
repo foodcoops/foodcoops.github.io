@@ -2,6 +2,8 @@
 main:
   - title: 'News'
     url: /news
+  - title: 'Demo'
+    url: /demo
   - title: 'Hosting'
     url: /foodsoft-hosting
   - title: '<i class="fa fa-github"></i>'
@@ -10,6 +12,8 @@ main:
 links:
   - title: 'Foodsoft'
     children:
+    - title: 'Demo'
+      url: /demo
     - title: 'Hosting'
       url: /foodsoft-hosting
     - title: 'Wiki'
