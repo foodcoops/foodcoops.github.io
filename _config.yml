@@ -149,7 +149,7 @@ sass:
 # Outputting
 permalink: /:title/
 paginate: 7 # amount of posts to show
-paginate_path: /news/page-:num/
+paginate_path: /news/page:num/
 timezone: UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -218,7 +218,7 @@ defaults:
       author_profile: false
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
       sidebar:
         nav: links
