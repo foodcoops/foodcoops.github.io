@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "foodcoops.net"
-title_html               : "<a href='/' class='head-logo'>food<span>coops</span><small>.net</small></a>"
+title                    : "foodcoops"
+title_html               : "<a href='/' class='head-logo'>food<span>coops</span><small></small></a>"
 title_separator          : "-"
 name                     : "Foodsoft developers"
 description              : "Web-based software for food cooperatives."
