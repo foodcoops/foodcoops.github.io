@@ -6,6 +6,7 @@ sidebar:
 ---
 {% include toc %}
 
+
 So you want to start a food cooperative? Or you're already part of one, but
 would like to have an ordering system that supports what you're doing? Foodsoft
 is a web-based software package offering a product catalog, ordering,
@@ -15,11 +16,22 @@ When you'd like to start using Foodsoft, you can request an instance for your
 cooperative at one of the hosting providers. Or if you have some technical skills,
 you can also run it yourself.
 
+
+## Global
+
+There are some changes in happening, please read the
+<a href="/2017/07/14/open-community-driven-foodsoft-platform/">important community update</a>
+about hosting, and keep an eye on <a href="/news">news page</a>.
+
+
+
 ## Austria
 
-There's quite a number of food cooperatives in Austria using Foodsoft. Feel free
-to contact if you're interested.
+In case you're living in Austria, you're in good company. Please feel free to contact
+<i>_IG FoodCoops_</i>, they'd be happy to invite you in the community of food cooperatives,
+and provide Foodsoft hosting.
 
+<a href="http://foodcoops.at/" class="btn btn--inverse">Read more</a>
 <a href="mailto:infos@foodcoops.at" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
 
 ## Netherlands
@@ -32,7 +44,10 @@ signup, nested article categories, a checkout screen and other improvements. It
 is based on an older version of Foodsoft though, and doesn't provide the
 delivery and task functionality.
 
+While this is currently available, it will probably merge with the global hosting option.
+
 <a href="mailto:info@voedselcollectief.org" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
+
 
 ## Do-It-Yourself
 
