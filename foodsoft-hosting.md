@@ -19,17 +19,20 @@ you can also run it yourself.
 
 ## Global
 
-There are some changes in happening, please read the
-<a href="/2017/07/14/open-community-driven-foodsoft-platform/">important community update</a>
-about hosting, and keep an eye on <a href="/news">news page</a>.
+People from several food cooperatives in Europe came together to start a global
+hosting platform for everyone. It is maintained by a few volunteers from different
+countries, and hosting costs are paid for by (yearly) donations. They'd be happy
+to welcome you on board.
 
-
+<a href="/global-foodsoft-platform" class="btn btn--inverse">Read more</a>
+<a href="mailto:foodsoft-support@lists.systemausfall.org" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
+<a href="http://stats.pingdom.com/97m58vhnf1fv" class="btn btn--inverse"><i class="fa fa-heartbeat"></i> Status</a>
 
 ## Austria
 
 In case you're living in Austria, you're in good company. Please feel free to contact
-<i>_IG FoodCoops_</i>, they'd be happy to invite you in the community of food cooperatives,
-and provide Foodsoft hosting.
+<i>_IG FoodCoops_</i>, they'd be happy to invite you in the national community of food
+cooperatives, and provide Foodsoft hosting.
 
 <a href="http://foodcoops.at/" class="btn btn--inverse">Read more</a>
 <a href="mailto:infos@foodcoops.at" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>

@@ -17,11 +17,10 @@ screen to turn some functionality on or off.
 
 ## Main version
 
-At this moment, there is no official demonstration of the main Foodsoft software. In the
-meantime, you could try the
-<a href="https://foodsoft-translation.herokuapp.com/" rel="nofollow">installation used for translating</a>.
+The [global platform](/global-foodsoft-platform) provides a [demo](https://app.foodcoops.net.foodcoops.info/demo/)
+of the main version of Foodsoft.
 
-<a href="https://foodsoft-translation.herokuapp.com/" rel="nofollow" class="btn btn--inverse">Try out <i class="fa fa-chevron-right"></i></a>
+<a href="https://app.foodcoops.net.foodcoops.info/demo/" rel="nofollow" class="btn btn--inverse">Try out <i class="fa fa-chevron-right"></i></a>
 <small>
   _login with admin account:_ `admin` / `secret`
   _or as normal user:_ `member` / `secret`
