@@ -37,8 +37,8 @@ If you have a question about using Foodsoft, you can visit the [user mailing-lis
 Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to
-`foodcoops-support (ät) lists.systemausfall.org`, where the technical team can help
-resolve the issue.
+[foodcoops-support@lists.systemausfall.org](mailto:foodcoops-support@lists.systemausfall.org),
+where the technical team can help resolve it.
 
 # Helping out
 
