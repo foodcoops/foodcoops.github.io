@@ -54,11 +54,11 @@ Some suppliers are used by several cooperatives and have automated article updat
 of a shared database. Each food cooperative can make a selection of its articles, and synchronize
 prices before opening an order. [Read more on the wiki](https://github.com/foodcoops/foodsoft/wiki/Shared-database).
 
-The following suppliers are in the process of becoming available in the shared database:
+The following suppliers are available in the shared database:
 
 * DE - [Terra Naturkost](https://www.terra-natur.com/): organic wholesale retailer.
+
+These are planned for inclusion:
+
 * NL - [De Nieuwe Band](https://nieuweband.nl/): organic wholesale cooperative for dry foods, cheese and some household goods.
 * NL - [BioRomeo](http://www.bioromeo.nl/): farmer collective with organic fruits and vegetables from Flevoland.
-
-If you're a foodcoop who orders from Terra Naturkost, please contact the foodcoops-support address
-to help getting everything setup.

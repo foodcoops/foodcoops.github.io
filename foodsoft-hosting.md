@@ -47,7 +47,8 @@ signup, nested article categories, a checkout screen and other improvements. It
 is based on an older version of Foodsoft though, and doesn't provide the
 delivery and task functionality.
 
-While this is currently available, it will probably merge with the global hosting option.
+While this is currently available, it will most probably merge with the global
+hosting option, please consider that first.
 
 <a href="mailto:info@voedselcollectief.org" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
 
