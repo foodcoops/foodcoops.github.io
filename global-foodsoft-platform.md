@@ -57,8 +57,5 @@ prices before opening an order. [Read more on the wiki](https://github.com/foodc
 The following suppliers are available in the shared database:
 
 * DE - [Terra Naturkost](https://www.terra-natur.com/): organic wholesale retailer.
-
-These are planned for inclusion:
-
 * NL - [De Nieuwe Band](https://nieuweband.nl/): organic wholesale cooperative for dry foods, cheese and some household goods.
 * NL - [BioRomeo](http://www.bioromeo.nl/): farmer collective with organic fruits and vegetables from Flevoland.
