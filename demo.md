@@ -17,10 +17,10 @@ screen to turn some functionality on or off.
 
 ## Main version
 
-The [global platform](/global-foodsoft-platform) provides a [demo](https://app.foodcoops.net.foodcoops.info/demo/)
+The [global platform](/global-foodsoft-platform) provides a [demo](https://app.foodcoops.net/demo/)
 of the main version of Foodsoft.
 
-<a href="https://app.foodcoops.net.foodcoops.info/demo/" rel="nofollow" class="btn btn--inverse">Try out <i class="fa fa-chevron-right"></i></a>
+<a href="https://app.foodcoops.net/demo/" rel="nofollow" class="btn btn--inverse">Try out <i class="fa fa-chevron-right"></i></a>
 <small>
   _login with admin account:_ `admin` / `secret`
   _or as normal user:_ `member` / `secret`
