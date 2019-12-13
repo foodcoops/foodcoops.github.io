@@ -25,7 +25,7 @@ countries, and hosting costs are paid for by (yearly) donations. They'd be happy
 to welcome you on board.
 
 <a href="/global-foodsoft-platform" class="btn btn--inverse">Read more</a>
-<a href="mailto:foodcoops-support@lists.systemausfall.org" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
+<a href="mailto:foodcoops-support@wat.systemausfall.org" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
 <a href="http://stats.pingdom.com/97m58vhnf1fv" class="btn btn--inverse"><i class="fa fa-heartbeat"></i> Status</a>
 
 ## Austria
