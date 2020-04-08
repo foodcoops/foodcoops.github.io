@@ -26,7 +26,7 @@ per group per year.
 
 Because we don't have a legal status, we've asked [Sense.Lab](https://senselab.org/) to handle
 receiving donations. This is a German non-profit involved with several initiatives for a better world.
-When donating, please use [their account details](https://senselab.org/content/spenden), making sure to
+When donating, please use [their account details](https://senselab.org/senselab_unterstuetzen), making sure to
 mention _foodcoops.net_ and your foodcoop name.
 
 # Support
