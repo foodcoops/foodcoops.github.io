@@ -12,7 +12,7 @@ title_html               : "<a href='/' class='head-logo'>food<span>coops</span>
 title_separator          : "-"
 name                     : "Foodsoft developers"
 description              : "Web-based software for food cooperatives."
-url                      : #https://www.foodcoops.net
+url                      : https://www.foodcoops.net
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : foodcoops/foodsoft
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
