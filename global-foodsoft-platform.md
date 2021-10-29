@@ -19,15 +19,13 @@ and Dutch suppliers (in addition to those managed by your own cooperative).
 
 # Costs
 
-The total costs for maintaing the platform, about hundred euro's per year, are shared by all
-cooperatives on a donation basis. When bills are due, a mail with request for donations goes
-out to all groups using the platform. Because we're with so many, this is only a couple of euro's
-per group per year.
+The total costs for maintaing the platform are shared by all cooperatives. Please consider to donate 10 to 20 Euros
+on a yearly basis.
 
 Because we don't have a legal status, we've asked [Sense.Lab](https://senselab.org/) to handle
 receiving donations. This is a German non-profit involved with several initiatives for a better world.
 When donating, please use [their account details](https://senselab.org/senselab_unterstuetzen), making sure to
-mention _foodcoops.net_ and your foodcoop name.
+mention _foodcoops.net_ and your foodcoop name as a subject in the bank transfer.
 
 # Support
 
