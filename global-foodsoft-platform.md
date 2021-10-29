@@ -31,13 +31,13 @@ mention _foodcoops.net_ and your foodcoop name.
 
 # Support
 
-If you have a question about using Foodsoft, you can visit the [user mailing-list](http://foodsoft.51229.x6.nabble.com/foodsoft-discuss-f5.html)
-(please [search](http://foodsoft.51229.x6.nabble.com/template/NamlServlet.jtp?macro=search_page&node=5&query=) before
-[posting a new message](http://foodsoft.51229.x6.nabble.com/template/NamlServlet.jtp?macro=post_by_email_page&node=5)).
+If you have a question about using Foodsoft, you can visit the [user mailing-list](http://foodsoft.274.s1.nabble.com/foodsoft-discuss-f5.html)
+(please [search](http://foodsoft.274.s1.nabble.com/template/NamlServlet.jtp?macro=search_page&node=5&query=) before
+posting a new message).
 Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to
-[foodcoops-support@wat.systemausfall.org](mailto:foodcoops-support@wat.systemausfall.org),
+[support@lists.foodcoops.net](mailto:support@lists.foodcoops.net),
 where the technical team can help resolve it.
 
 # Helping out
