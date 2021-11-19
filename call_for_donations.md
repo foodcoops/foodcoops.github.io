@@ -1,4 +1,10 @@
-# Call for donations
+---
+layout: single
+title: Call for donations
+sidebar:
+  nav: links
+---
+
 A group of volunteers take care of the global hosting platform. To cover all expenses we need donations. 
 Our recommendation is a yearly amount of 20 EUR per Foodcoop. Some can give more others less and that's fine.
 
