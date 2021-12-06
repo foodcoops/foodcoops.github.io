@@ -14,7 +14,8 @@ to form a global hosting platform.
 # Foodsoft
 
 The platform provides the main Foodsoft version, complete with email replies and standard
-plugins. There is also a [shared database](#shared-database) of suppliers for some German
+plugins. The web interface supports different [languages](https://github.com/foodcoops/foodsoft/tree/master/config/locales).
+There is also a [shared database](#shared-database) of suppliers for some German
 and Dutch suppliers (in addition to those managed by your own cooperative).
 
 # Costs
@@ -26,6 +27,19 @@ Because we don't have a legal status, we've asked [Sense.Lab](https://senselab.o
 receiving donations. This is a German non-profit involved with several initiatives for a better world.
 When donating, please use [their account details](https://senselab.org/spenden), making sure to
 mention _foodcoops.net_ and your foodcoop name as a subject in the bank transfer.
+
+# Request a new instance
+
+Please read at first our [Terms of Service](/tos) before you request a new instance. If you agree to it send an email
+to [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net) with the following information:
+
+   * Name of your foodcoop
+   * Short name (for use in the web address)
+   * Contact person (name + email address)
+   * Fallback contact person (name + email address)
+   * Homepage (if any)
+
+After we finished to set up your instance you will receive an email with all the details.
 
 # Support
 
