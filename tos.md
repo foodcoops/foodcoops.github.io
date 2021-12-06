@@ -34,6 +34,14 @@ Such messages may contain (but are not limited to) information about updates, ou
 Our support mailing list [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net) contains a
 private archive. Only members of the support team and the mailing list provider can access the data.
 
+### Data connected to a Foodsoft instance
+
+If you start using your Foodsoft instance you will probably enter personal infomation about your members.
+These data may consists of real names, email addresses, postal addresses telephone numbers and information about
+a member's virtual balance. We store this data inside a database at our servers. Only members of the hosting team
+are able to access these data. The databases are not accessable from outside the server an we do our best to protect
+the server against attacks.
+
 ## Termination of a Foodsoft instance
 
 We may terminate your Foodsoft instance at any time for any reason. Typically, however,
