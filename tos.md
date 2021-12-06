@@ -1,14 +1,12 @@
 ---
 layout: single
-title: Foodsoft hosting
+title: Terms of Service for the global hosting platform
 sidebar:
   nav: links
 ---
 {% include toc %}
 
 *Note: This document is work in progress. The final version will not contain this note.*
-
-# Terms of Service for the global hosting platform
 
 This document describes how we provide the global hosting service. What data we need to provide a
 Foodsoft instance and how we use it. This document also describes under what conditions we may
