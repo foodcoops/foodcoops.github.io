@@ -12,4 +12,4 @@ With this call we want to start a new donation campaign. Our goal is raise EUR 5
 If your foodcoop has not yet donated, we are looking forward to your contribution.
 Our  recommendation is a donation of EUR 20 per foodcoop.
 
-Have a look at [this page](call-for-donations) for more information.
+Have a look at [this page](http://foodcoops.net/call-for-donations) for more information.
