@@ -10,7 +10,7 @@ Our recommendation is a yearly amount of EUR 20 per Foodcoop. Some can give more
 
 With this call we ask for a total amount of **EUR 500**.
 
-**Current status:** ![83%](https://progress-bar.dev/83)
+**Current status:** ![88%](https://progress-bar.dev/88)
 
 Send your donations to our Partner [Sense.Lab](https://senselab.org). It's a non-profit organization which pays
 all the bills for us. If you need a receipt for your contribution, just send them a [message](https://senselab.org/kontakt/).
