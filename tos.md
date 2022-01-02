@@ -42,6 +42,16 @@ a member's virtual balance. We store these data inside a database at our servers
 are able to access these data. The databases are not accessable from outside the server and we do our best to protect
 the server against attacks.
 
+### Logging
+
+To ensure safe operation and protect against [attacks](https://en.wikipedia.org/wiki/Brute-force_search) our servers
+collect the following data:
+- IP addresses
+- Login dates
+- Meta data of email connections
+
+We save this data for no longer than only 48 hours.
+
 ## Termination of a Foodsoft instance
 
 We may terminate your Foodsoft instance at any time for any reason. Typically, however,
