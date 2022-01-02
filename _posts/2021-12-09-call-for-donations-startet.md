@@ -13,3 +13,5 @@ If your foodcoop has not yet donated, we are looking forward to your contributio
 Our  recommendation is a donation of EUR 20 per foodcoop.
 
 Have a look at [this page](http://foodcoops.net/call-for-donations) for more information.
+
+**Update:** We reached our goal. Thanks to all our donors!
