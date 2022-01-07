@@ -68,6 +68,7 @@ prices before opening an order. [Read more on the wiki](https://github.com/foodc
 
 The following suppliers are available in the shared database:
 
+* DE - [Bio Antakya](http://www.bio-antakya.de): organic wholesale retailer. Delivery to allmost all federal states. *Note: The product catalog provided by Bio Antakya may contain errors (e.g. wrong deposit codes). Please double check after importing.*
 * DE - [Terra Naturkost](https://www.terra-natur.com/): organic wholesale retailer.
-* NL - [De Nieuwe Band](https://nieuweband.nl/): organic wholesale cooperative for dry foods, cheese and some household goods.
 * NL - [BioRomeo](http://www.bioromeo.nl/): farmer collective with organic fruits and vegetables from Flevoland.
+* NL - [De Nieuwe Band](https://nieuweband.nl/): organic wholesale cooperative for dry foods, cheese and some household goods.
