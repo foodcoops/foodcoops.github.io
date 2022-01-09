@@ -18,7 +18,7 @@ screen to turn some functionality on or off.
 ## Main version
 
 The [global platform](/global-foodsoft-platform) provides a [demo](https://app.foodcoops.net/demo/)
-of the main version of Foodsoft.
+of the main version of Foodsoft. All data are reset daily at midnight.
 
 <a href="https://app.foodcoops.net/demo/" rel="nofollow" class="btn btn--inverse">Try out <i class="fa fa-chevron-right"></i></a>
 <small>
