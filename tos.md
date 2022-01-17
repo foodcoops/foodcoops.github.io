@@ -52,6 +52,20 @@ collect the following data:
 
 We save this data for no longer than only 48 hours.
 
+### Usage statistics
+
+We are using [Matomo](https://matomo.org), an Open Source, self-hosted software for collecting anonymous usage
+statistics for the hosting service. Matomo is processing the following data:
+- Cookies
+- Anonymized IP-address
+- Pseudo-anonymized Location of the user
+- Date and time
+- Title and URL of the page being viewed
+- Operating system and screen resolution
+- Main Language and User Agent of the browser
+
+Our Matomo instance will not track visitors who have specified "[I do not want to be tracked](https://www.eff.org/issues/do-not-track)" in their web browsers.
+
 ## Termination of a Foodsoft instance
 
 We may terminate your Foodsoft instance at any time for any reason. Typically, however,
