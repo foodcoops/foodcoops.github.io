@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Terms of Service for the global hosting platform
+title: Terms of Service for the global Foodsoft platform
 sidebar:
   nav: links
 ---
@@ -17,7 +17,12 @@ constitutes your agreement to these Terms of Service.
 
 To provide the global hosting service we need to know some information about you and your foodcoop.
 We retain only the bare minimum of information about you or your foodcoop that is required to make
-the service work. We do not sell or share any of it.
+the service work. We do not sell or share any of it with third parties.
+
+### Data location
+
+We store all data at servers located in Germany. Our services are protected against attacks and
+data theft by technical measures. 
 
 ### Registration information
 
@@ -64,7 +69,18 @@ statistics for the hosting service. Matomo is processing the following data:
 - Operating system and screen resolution
 - Main Language and User Agent of the browser
 
-Our Matomo instance will not track visitors who have specified "[I do not want to be tracked](https://www.eff.org/issues/do-not-track)" in their web browsers.
+Our Matomo instance will not track visitors who have specified
+"[I do not want to be tracked](https://www.eff.org/issues/do-not-track)" in their web browsers.
+
+### Your rights as an administrator of a Foodsoft instance
+
+You are entitled to all legal rights without execption. If you want to move to another Foodsoft
+provider we make your Foodsoft's database available for download.
+
+### Contact
+
+If there are any questions regarding our privacy policy you may contact us using the information in our
+[Imprint](/imprint).
 
 ## Termination of a Foodsoft instance
 
@@ -84,3 +100,7 @@ your sole and exclusive risk.
 
 We reserve the right to change this policy. If we make major changes, we will notify our users in a clear
 and prominent manner. Minor changes may only be highlighted in the footer of our website.
+
+## Legal notice
+
+You can find contact information in our [Imprint](/imprint).
