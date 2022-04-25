@@ -27,5 +27,4 @@ Arbeitsgruppen eine besondere Ansicht. Wird ein wöchentlicher Job definiert,
 z.b. Donnerstags Abrechnen, werden immer die nächsten 10 Donnerstage angezeigt.
 Eine neue Aufgabe ist dank der Vorlage schnell angelegt.
 
-Inspiriert für diese Lösung hat uns übrigens die
-[FC Nahrungskette](http://nahrungskette.fcschinke09.de/wiki) aus Potsdam.
+Inspiriert für diese Lösung hat uns übrigens die FC Nahrungskette aus Potsdam.

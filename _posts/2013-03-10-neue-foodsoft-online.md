@@ -11,7 +11,7 @@ gallery:
 ---
 puhh, es ist geschafft. Die Foodsoft ist soeben von Ihrem alten Server in die
 Infrastruktur von [about:source](http://www.aboutsource.net/) umgezogen. An dieser
-Stelle nochmals vielen Dank an den alten Hoster: [Löhr Computer](http://www.loehr-computer.de/)
+Stelle nochmals vielen Dank an den alten Hoster: [Löhr Computer](https://web.archive.org/web/20130901212831/http://www.loehr-computer.de).
 
 ### Was ist neu?
 

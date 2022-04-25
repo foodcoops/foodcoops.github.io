@@ -30,4 +30,4 @@ Trotzdem, es gab auch viele kleine Detailverbesserungen ein paar große Brocken:
   vereinfacht.
 
 Interesse? Ob [Hosting](/foodsoft-hosting) oder Download, die Software bleibt
-OpenSource und kostenlos. Schreibt uns doch eine Mail: foodsoft [ätt] foodcoops.net
+OpenSource und kostenlos. Schreibt uns doch eine Mail: support [ätt] lists.foodcoops.net

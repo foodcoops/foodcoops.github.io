@@ -54,7 +54,7 @@ The next steps (for food co-ops which do not want to use the Austrian hosting)
   you agree that no data will be handed over to us.
 * Co-ops, which agreed to the transition, will be migrated and hosted by a
   new IT team which is currently forming (Willem, André and more). Please send
-  us an email to transition[ät]foodcoops.nl if you want to join. The transition
+  us an email to transition[ät]foodcoops.net if you want to join. The transition
   will start end of July beginning of August. (The current Foodsoft will be hosted
   until we migrated everyone who contacted us.)
 

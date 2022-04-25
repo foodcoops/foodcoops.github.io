@@ -14,4 +14,4 @@ Welt verfügbar sein. Bis dahin bitten wir um etwas Geduld.
 Mehr Infos zur Entwicklung der FoodSoft findet Ihr hier:
 [http://foodsoft.fcschinke09.de/](http://foodsoft.fcschinke09.de/)
 
-Das Hosting-Angebot wir [hier](/foodsoft-hosting) näher beschrieben.
+Das Hosting-Angebot wird [hier](/foodsoft-hosting) näher beschrieben.

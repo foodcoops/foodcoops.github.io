@@ -7,7 +7,7 @@ nachhaltiges Hosting für die Foodsoft aufzubauen gebe ich auf. Ich werde das
 Hosting zum Ende Juli 2017 einstellen.
 
 Das Projekt Foodsoft ist aber nach wie vor lebendig. In Österreich entwickelt
-sich gerade eine [Interessensgemeinschaft](https://foodcoops.at/), der mindestens
+sich gerade eine [Interessensgemeinschaft](https://foodcoops.at/), die mindestens
 die Foodcoops aus Österreich übernehmen will. In den Niederlanden gibt es schon
 seit vielen Jahren entsprechende Strukturen. Von dort aus wird die Software auch
 aktiv [weiterentwickelt](https://github.com/foodcoops/foodsoft/pulse/monthly).
@@ -21,7 +21,7 @@ nicht länger im Weg stehen. Leider hat auch mein
 [IT Kollektiv](http://www.aboutsource.net/) derzeit zu viele Baustellen und kann
 das nicht auffangen.
 
-Bis zum Ende versuche ich jetzt wieder über support[ät]foodcoops.net ansprechbar
+Bis zum Ende versuche ich jetzt wieder über support[ät]lists,foodcoops.net ansprechbar
 zu sein. Ich bin offen für alle Vorschläge, um einen möglichst reibungslosen
 Übergang in die Post-foodcoops.net Ära zu ermöglichen.
 

@@ -11,7 +11,7 @@ kurz erläutern:
 Der größte Brocken ist die neue Mehrsprachigkeit. Aktuell gibt es neben deutsch
 auch englisch und niederländisch. Demnächst vielleicht auch auch französisch.
 Dank der Plattform localeapp.com geht das Übersetzen auch komplett
-[online](http://www.localeapp.com/projects/4867).
+online.
 Programmmierkenntnisse sind nicht notwendig. Siehe dazu auch das foodsoft
 [wiki](https://github.com/foodcoops/foodsoft/wiki/Translation).
 
