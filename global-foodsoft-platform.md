@@ -31,7 +31,7 @@ mention _foodcoops.net_ and your foodcoop name as a subject in the bank transfer
 # Request a new instance
 
 Please read at first our [Terms of Service](/tos) before you request a new instance. If you agree to it send an email
-to [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net) with the following information:
+(in German or English) to [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net) with the following information:
 
    * Name of your foodcoop
    * Short name (for use in the web address)
@@ -43,21 +43,21 @@ After we finished to set up your instance you will receive an email with all the
 
 # Support
 
-If you have a question about using Foodsoft, you can visit the [user mailing-list](http://foodsoft.274.s1.nabble.com/foodsoft-discuss-f5.html)
+If you have a question about using the Foodsoft, you can visit the [user mailing-list](http://foodsoft.274.s1.nabble.com/foodsoft-discuss-f5.html)
 (please [search](http://foodsoft.274.s1.nabble.com/template/NamlServlet.jtp?macro=search_page&node=5&query=) before
 posting a new message).
 Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to
 [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net),
-where the technical team can help resolve it.
+where the technical team can help to resolve it.
 
 # Helping out
 
 The global platform is maintained by volunteers from different cooperatives. If you would
-like to help out, please contact!
+like to help out, please contact us!
 
-We're currently looking for people who want to write new documentation for Foodsoft.
+We're currently looking for people who want to write new documentation for the Foodsoft.
 Feel free to email either support address.
 
 # Shared database
