@@ -6,7 +6,7 @@ sidebar:
 ---
 {% include toc %}
 
-*Note: This document is work in progress. The final version will not contain this note.*
+*Version: 2022-06-21*
 
 This document describes how we provide the global hosting service. What data we need to provide a
 Foodsoft instance and how we use it. This document also describes under what conditions we may
@@ -98,8 +98,7 @@ your sole and exclusive risk.
 
 ## Changes to this policy
 
-We reserve the right to change this policy. If we make major changes, we will notify our users in a clear
-and prominent manner. Minor changes may only be highlighted in the footer of our website.
+We reserve the right to change this policy. If we make major changes, we will notify our users in a clear and prominent manner. Minor changes may only be highlighted in the [changelog](https://github.com/foodcoops/foodcoops.github.io/commits/master/tos.md) of our repository.
 
 ## Legal notice
 
