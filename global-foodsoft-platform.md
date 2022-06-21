@@ -76,4 +76,4 @@ The following suppliers are available in the shared database:
 * NL - [BioRomeo](http://www.bioromeo.nl/): farmer collective with organic fruits and vegetables from Flevoland.
 * NL - [Odin](https://www.odin.nl/): organic wholesale cooperative for dry foods, cheese and some household goods.
 
-Please note that your Foodcoop needs to be an approved customer by any of this suppliers to place an order.
+Please note that your Foodcoop needs to be an approved customer by any of these suppliers to place an order.
