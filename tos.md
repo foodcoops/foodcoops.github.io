@@ -6,7 +6,7 @@ sidebar:
 ---
 {% include toc %}
 
-*Version: 2022-06-21*
+*Version: 2022-06-22*
 
 This document describes how we provide the global hosting service. What data we need to provide a
 Foodsoft instance and how we use it. This document also describes under what conditions we may
@@ -90,11 +90,7 @@ inform about the upcoming deletion by sending a notification to the contact addr
 
 ## No Warranty
 
-You understand and agree that the global hosting group provides online services “as is” and without
-any warranty, express, implied, or statutory. We specifically disclaim any implied warranties of title,
-merchantability, fitness for a particularly purpose and non-infringement. We make no warranty as to the
-reliability, accessibility, or quality of our services. You agree that the use of our services is at
-your sole and exclusive risk.
+The service is run by volunteers. We automatically monitor our systems and create daily backups of the data. However, you understand and agree that the global hosting group provides online services “as is” and without any warranty, express, implied, or statutory. We specifically disclaim any implied warranties of title, merchantability, fitness for a particularly purpose and non-infringement. We make no warranty as to the reliability, accessibility, or quality of our services. You agree that the use of our services is at your sole and exclusive risk.
 
 ## Changes to this policy
 
