@@ -26,11 +26,11 @@ on a yearly basis.
 Because we don't have a legal status, we've asked [Sense.Lab](https://senselab.org/) to handle
 receiving donations. This is a German non-profit involved with several initiatives for a better world.
 When donating, please use [their account details](https://senselab.org/spenden), making sure to
-mention _foodcoops.net_ and your foodcoop name as a subject in the bank transfer.
+mention _foodcoops.net_ and your foodcoop's name as a subject in the bank transfer.
 
 # Request a new instance
 
-Please read at first our [Terms of Service](/tos) before you request a new instance. If you agree to it send an email
+Please read at first our [Terms of service](/tos) before you request a new instance. If you agree to it send an email
 (in German or English) to [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net) with the following information:
 
    * Name of your foodcoop
@@ -57,7 +57,7 @@ where the technical team can help to resolve it.
 # Helping out
 
 The global platform is maintained by volunteers from different cooperatives. If you would
-like to help out, please contact us!
+like to help out, please [contact](mailto:support@lists.foodcoops.net) us!
 
 We're currently looking for people who want to write new documentation for the Foodsoft.
 Feel free to email either support address.
