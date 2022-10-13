@@ -45,9 +45,7 @@ After we finished to set up your instance you will receive an email with all the
 
 # Support
 
-If you have a question about using the Foodsoft, you can visit the [user mailing-list](http://foodsoft.274.s1.nabble.com/foodsoft-discuss-f5.html)
-(please [search](http://foodsoft.274.s1.nabble.com/template/NamlServlet.jtp?macro=search_page&node=5&query=) before
-posting a new message).
+If you have a question about using the Foodsoft, you can visit the [forum](https://forum.foodcoops.net).
 Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to

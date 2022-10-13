@@ -56,8 +56,7 @@ hosting option. Also support is minimal. Please consider the global hosting opti
 
 Since Foodsoft is open source, you can always run your own copy. This requires
 some technical skills, but allows you to make your own tweaks and modifications.
-And if you need help, the [mailing list](http://foodsoft.274.s1.nabble.com/foodsoft-discuss-f5.html)
-is always there.
+And if you need help, the [forum](https://forum.foodcoops.net) is always there.
 
 <a href="https://github.com/foodcoops/foodsoft" class="btn btn--inverse"><i class="fa fa-github"></i></a>
 <a href="https://github.com/foodcoops/foodsoft/wiki/Deployment-notes" class="btn btn--inverse">Get going</a>
