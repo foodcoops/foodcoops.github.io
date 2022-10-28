@@ -9,5 +9,5 @@ The global Foodsoft hosting is run by a group of volunteers. You can get in cont
 with them by sending an email [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net).
 
 As there is no legal entity behind this project we cooperate with the non-profit
-association Sense.Lab e.V. If you wish to get in touch with them please habe a look
+association Sense.Lab e.V. If you wish to get in touch with them please have a look
 at their [imprint](https://senselab.org/kontakt/).
