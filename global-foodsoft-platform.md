@@ -39,7 +39,7 @@ Please read at first our [Terms of service](/tos) before you request a new insta
    * Fallback contact person (name + email address)
    * Homepage (if any)
 
-It is also possible to customize some [settings](https://github.com/foodcoops/foodcoops.net/blob/master/Ansible/roles/foodsoft/Configuration.md) for your Foodsoft instance.
+It is also possible to customize some [settings](https://github.com/foodcoops/foodcoops.net/blob/master/Ansible/roles/configure-foodsoft/Configuration.md) for your Foodsoft instance.
 
 After we finished to set up your instance you will receive an email with all the details.
 
