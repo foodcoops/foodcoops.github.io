@@ -6,12 +6,17 @@ sidebar:
 ---
 {% include toc %}
 
-*Version: 2022-06-22*
+*Version: 2023-04-05*
 
 This document describes how we provide the global hosting service. What data we need to provide a
 Foodsoft instance and how we use it. This document also describes under what conditions we may
 terminate your instance and asserts our limited liability. Your use of the global hosting platform
 constitutes your agreement to these Terms of Service.
+
+## Emacipatory Approach
+
+We offer this service to support all movements with emancipatory character. Approaches which promote
+exclusion and oppression are condemned and we reject cooperation.
 
 ## Privacy Policy
 
@@ -55,7 +60,7 @@ collect the following data:
 - Login dates
 - Meta data of email connections
 
-We save this data for no longer than only 48 hours.
+We save this data for no longer than 48 hours.
 
 ### Usage statistics
 
