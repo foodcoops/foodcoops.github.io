@@ -45,12 +45,12 @@ After we finished to set up your instance you will receive an email with all the
 
 # Support
 
-If you have a question about using the Foodsoft, you can visit the [forum](https://forum.foodcoops.net).
-Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
+If you have a question about using the Foodsoft, you can check the [forum](https://forum.foodcoops.net) if someone already has answered
+your question. If not just create a new topic. Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to
-[support@lists.foodcoops.net](mailto:support@lists.foodcoops.net),
-where the technical team can help to resolve it.
+[support@lists.foodcoops.net](mailto:support@lists.foodcoops.net). Please note that we don't answer questions regarding the user side of
+the Foodsoft. You are welcome to use the Forum for this kind of questions. The support address should only be used for technical issues.
 
 # Helping out
 
