@@ -50,7 +50,7 @@ your question. If not just create a new topic. Or maybe the [support wiki](https
 
 In case you have an issue with the global platform, you can send an email to
 [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net). Please note that we don't answer questions regarding the user side of
-the Foodsoft. You are welcome to use the Forum for this kind of questions. The support address should only be used for technical issues.
+the Foodsoft. You are welcome to use the [Forum](https://forum.foodcoops.net) for this kind of questions. The support address should only be used for technical issues.
 
 # Helping out
 
