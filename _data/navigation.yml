@@ -16,8 +16,6 @@ links:
       url: /demo
     - title: 'Hosting'
       url: /foodsoft-hosting
-    - title: 'Status page'
-      url: https://status.foodcoops.net
     - title: 'Wiki'
       url: https://github.com/foodcoops/foodsoft/wiki
     - title: 'Support'
