@@ -20,6 +20,6 @@ eine ausführliche Übergabe und helfe in der Anfangszeit in den schwierigen
 Fragen aus.
 
 Alle potentiellen Unterstützer_innen melden sich bitte unter
-support@lists.foodcoops.net.
+hosting@lists.foodcoops.net.
 
 Benni.

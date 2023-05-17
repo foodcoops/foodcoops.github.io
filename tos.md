@@ -41,7 +41,7 @@ Such messages may contain (but are not limited to) information about updates, ou
 
 ### Help requests
 
-Our support mailing list [support@lists.foodcoops.net](mailto:support@lists.foodcoops.net) contains a
+Our support mailing list [hosting@lists.foodcoops.net](mailto:hosting@lists.foodcoops.net) contains a
 private archive. Only members of the support team and the mailing list provider can access the data.
 
 ### Data connected to a Foodsoft instance
