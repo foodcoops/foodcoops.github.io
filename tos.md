@@ -6,7 +6,7 @@ sidebar:
 ---
 {% include toc %}
 
-*Version: 2023-04-05*
+*Version: 2023-05-22*
 
 This document describes how we provide the global hosting service. What data we need to provide a
 Foodsoft instance and how we use it. This document also describes under what conditions we may
@@ -36,13 +36,21 @@ To setup a new instance we need to know the following personal data:
  - Your name and your email address
  - The name and email address of another contact person
 
-We will add this data to a mailing list which we use to send out important information about the service.
-Such messages may contain (but are not limited to) information about updates, outages or call for donations.
+Usually you contact us by mail. This mail will be forwarded to a private category at our
+[forum](https://forum.foodcoops.net).
+
+Furthermore we will add this data to a mailing list which we use to send out important information about
+the service. Such messages may contain (but are not limited to) information about updates, outages or call
+for donations.
+
+Only members of the admin team are able to access to the data.
+
+We save this data as long as your Foodsoft instance exists.
 
 ### Help requests
 
-Our support mailing list [hosting@foodcoops.net](mailto:hosting@foodcoops.net) contains a
-private archive. Only members of the support team and the mailing list provider can access the data.
+Our support mailing address [hosting@foodcoops.net](mailto:hosting@foodcoops.net) contains a
+private archive. Only members of the admin team are able to access the data.
 
 ### Data connected to a Foodsoft instance
 
@@ -51,6 +59,8 @@ These data may consists of real names, email addresses, postal addresses, teleph
 a member's virtual balance. We store these data inside a database at our servers. Only members of the hosting team
 are able to access these data. The databases are not accessable from outside the server and we do our best to protect
 the server against attacks.
+
+We save this data as long as your Foodsoft instance exists.
 
 ### Logging
 
@@ -77,7 +87,7 @@ statistics for the hosting service. Matomo is processing the following data:
 Our Matomo instance will not track visitors who have specified
 "[I do not want to be tracked](https://www.eff.org/issues/do-not-track)" in their web browsers.
 
-### Your rights as an administrator of a Foodsoft instance
+### Your rights as an owner of a Foodsoft instance
 
 You are entitled to all legal rights without execption. If you want to move to another Foodsoft
 provider we make your Foodsoft's database available for download.
