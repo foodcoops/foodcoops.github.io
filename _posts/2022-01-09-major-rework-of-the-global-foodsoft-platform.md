@@ -11,4 +11,4 @@ customizations easier. As a side effect there are two new features for our users
   reply address of the message will be automatically selected.
 - We can make your Foodsoft instance accessible via your own domain. If
   you are interested in this, send a message to
-  [hosting@lists.foodcoops.net](mailto:hosting@lists.foodcoops.net).
+  [hosting@foodcoops.net](mailto:hosting@foodcoops.net).

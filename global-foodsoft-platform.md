@@ -31,7 +31,7 @@ mention _foodcoops.net_ and your foodcoop's name as a subject in the bank transf
 # Request a new instance
 
 Please read at first our [Terms of service](/tos) before you request a new instance. If you agree to it send an email
-(in German or English) to [hosting@lists.foodcoops.net](mailto:hosting@lists.foodcoops.net) with the following information:
+(in German or English) to [hosting@foodcoops.net](mailto:hosting@foodcoops.net) with the following information:
 
    * Name of your foodcoop
    * Short name (for use in the web address)
@@ -49,13 +49,13 @@ If you have a question about using the Foodsoft, you can check the [forum](https
 your question. If not just create a new topic. Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to
-[hosting@lists.foodcoops.net](mailto:hosting@lists.foodcoops.net). Please note that we don't answer questions regarding the user side of
+[hosting@foodcoops.net](mailto:hosting@foodcoops.net). Please note that we don't answer questions regarding the user side of
 the Foodsoft. You are welcome to use the [Forum](https://forum.foodcoops.net) for this kind of questions. The support address should only be used for technical issues.
 
 # Helping out
 
 The global platform is maintained by volunteers from different cooperatives. If you would
-like to help out, please [contact](mailto:hosting@lists.foodcoops.net) us!
+like to help out, please [contact](mailto:hosting@foodcoops.net) us!
 
 We're currently looking for people who want to write new documentation for the Foodsoft.
 Feel free to email either support address.

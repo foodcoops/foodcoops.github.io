@@ -21,7 +21,7 @@ nicht länger im Weg stehen. Leider hat auch mein
 [IT Kollektiv](http://www.aboutsource.net/) derzeit zu viele Baustellen und kann
 das nicht auffangen.
 
-Bis zum Ende versuche ich jetzt wieder über support[ät]lists,foodcoops.net ansprechbar
+Bis zum Ende versuche ich jetzt wieder über hosting[ät].foodcoops.net ansprechbar
 zu sein. Ich bin offen für alle Vorschläge, um einen möglichst reibungslosen
 Übergang in die Post-foodcoops.net Ära zu ermöglichen.
 
