@@ -3,7 +3,7 @@ title: Future of the global hosting service
 categories: hosting
 ---
 
-*A similar text was send via email to all contact person of the foodcoops that uses app.foodcoops.net on 08/15/2023*
+*A similar text was send via email to all contact person of the foodcoops that uses app.foodcoops.net on 08/15/2023.*
 
 More than six years ago a [group of volunteers](https://foodcoops.net/2017/07/14/open-community-driven-foodsoft-platform/)
 got together to run the Foodsoft hosting in its current form. This group consisted of people who were active in various
@@ -22,10 +22,10 @@ that already provides the legal framework for the Foodsoft hosting and pays all 
 The idea is that in the future each foodcoop will be provided with 5 free Foodsoft member accounts and each additional Foodsoft member account will cost 1 € net / month.
 
 For this, rokoli can offer:
-• A managed hosting for your Foodsoft instance,
-• Security updates of the Foodsoft and participation in its further development,
-• Support in case of technical problems,
-• Maintaining the foodcoops.net forum.
+- A mianaged hosting for your Foodsoft instance,
+- Security updates of the Foodsoft and participation in its further development,
+- Support in case of technical problems,
+- Maintaining the foodcoops.net forum.
 
 Whether this will work and whether it will be possible to finance the work depends largely on the number of foodcoops that will continue to use the hosting.
 
