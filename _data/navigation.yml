@@ -6,6 +6,8 @@ main:
     url: /demo
   - title: 'Hosting'
     url: /foodsoft-hosting
+  - title: 'Forum'
+    url: https://forum.foodcoops.net
   - title: '<i class="fa fa-github"></i>'
     url: https://github.com/foodcoops/foodsoft
 
