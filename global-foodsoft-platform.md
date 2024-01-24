@@ -9,7 +9,8 @@ sidebar:
 When in 2017 the hosting by [about:source](https://www.aboutsource.net/)
 [ended](/2017/04/17/foodsoft-hosting-wird-eingestellt) after [ten years](/2007/06/22/foodsoft-portal-startet/),
 members of food cooperatives of three countries [came together](/2017/07/14/open-community-driven-foodsoft-platform/)
-to form a global hosting platform.
+to form a global hosting platform. Since January 2024 the tech collectiv [rokoli](https://roko.li) has been operating
+the platform.
 
 # Foodsoft
 
@@ -20,13 +21,8 @@ and Dutch suppliers (in addition to those managed by your own cooperative).
 
 # Costs
 
-The total costs for maintaing the platform are shared by all cooperatives. Please consider to donate 10 to 20 Euros
-on a yearly basis.
-
-Because we don't have a legal status, we've asked [Sense.Lab](https://senselab.org/) to handle
-receiving donations. This is a German non-profit involved with several initiatives for a better world.
-When donating, please use [their account details](https://senselab.org/spenden), making sure to
-mention _foodcoops.net_ and your foodcoop's name as a subject in the bank transfer.
+The total costs for maintaing the platform are shared by all cooperatives. Every cooperative can use up to 5 free Foodsoft
+user accounts. For each additional Foodsoft user account a fee of 1 € net per month is charged.
 
 # Request a new instance
 
@@ -49,13 +45,9 @@ If you have a question about using the Foodsoft, you can check the [forum](https
 your question. If not just create a new topic. Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to
-[hosting@foodcoops.net](mailto:hosting@foodcoops.net). Please note that we don't answer questions regarding the user side of
-the Foodsoft. You are welcome to use the [Forum](https://forum.foodcoops.net) for this kind of questions. The support address should only be used for technical issues.
+[hosting@foodcoops.net](mailto:hosting@foodcoops.net).
 
 # Helping out
-
-The global platform is maintained by volunteers from different cooperatives. If you would
-like to help out, please [contact](mailto:hosting@foodcoops.net) us!
 
 We're currently looking for people who want to write new documentation for the Foodsoft.
 Feel free to email either support address.

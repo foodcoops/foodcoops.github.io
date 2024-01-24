@@ -19,9 +19,8 @@ you can also run it yourself.
 
 ## Global
 
-People from several food cooperatives in Europe came together to start a global
-hosting platform for everyone. It is maintained by a few volunteers from different
-countries, and hosting costs are paid for by (yearly) donations. They'd be happy
+Various foodcoops from Europe use the the global hosting platform.
+It is maintained the IT tech collective Rokoli. They'd be happy
 to welcome you on board.
 
 <a href="/global-foodsoft-platform" class="btn btn--inverse">Read more</a>
