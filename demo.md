@@ -22,8 +22,8 @@ of the main version of the Foodsoft. All data are reset daily at midnight.
 
 <a href="https://demo.foodcoops.net" rel="nofollow" class="btn btn--inverse">Try out <i class="fa fa-chevron-right"></i></a>
 <small>
-  _login with admin account:_ `admin` / `secret1234`
-  _or as normal user:_ `mary` / `secret1234`
+  _login with admin account:_ `admin` / `secret`
+  _or as normal user:_ `mary` / `secret`
 </small>
 
 
