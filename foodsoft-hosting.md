@@ -35,22 +35,6 @@ cooperatives, and provide Foodsoft hosting.
 <a href="http://foodcoops.at/" class="btn btn--inverse">Read more</a>
 <a href="mailto:infos@foodcoops.at" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
 
-## Netherlands
-
-Several groups in The Netherlands share a
-[server](https://order.voedselcollectief.org) to run a modified version of
-Foodsoft (the [foodcoop-adam fork](https://github.com/foodcoop-adam/foodsoft)).
-This adds a more user-friendly member ordering interface, online payments,
-signup, nested article categories, a checkout screen and other improvements. It
-is based on an older version of Foodsoft though, and doesn't provide the
-delivery and task functionality.
-
-While this is currently available, the changes are slowly merged with the global
-hosting option. Also support is minimal. Please consider the global hosting option instead.
-
-<a href="mailto:info@voedselcollectief.org" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
-
-
 ## Do-It-Yourself
 
 Since Foodsoft is open source, you can always run your own copy. This requires
