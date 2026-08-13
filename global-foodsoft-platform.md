@@ -9,8 +9,8 @@ sidebar:
 When in 2017 the hosting by [about:source](https://www.aboutsource.net/)
 [ended](/2017/04/17/foodsoft-hosting-wird-eingestellt) after [ten years](/2007/06/22/foodsoft-portal-startet/),
 members of food cooperatives of three countries [came together](/2017/07/14/open-community-driven-foodsoft-platform/)
-to form a global hosting platform. Since January 2024 the tech collectiv [rokoli](https://roko.li) has been operating
-the platform.
+to form a global hosting platform. Since August 2026 the tech collectiv [UNI:CODE](https://unicode-it.de) has been operating
+this platform.
 
 # Foodsoft
 
@@ -27,7 +27,7 @@ user accounts. For each additional Foodsoft user account a fee of 1 € net per 
 # Request a new instance
 
 Please read at first our [Terms of service](/tos) before you request a new instance. If you agree to it send an email
-(in German or English) to [hosting@foodcoops.net](mailto:hosting@foodcoops.net) with the following information:
+(in German or English) to [support@unicode-it.de](mailto:support@unicode-it.de) with the following information:
 
    * Name of your foodcoop
    * Short name (for use in the web address)
@@ -45,7 +45,7 @@ If you have a question about using the Foodsoft, you can check the [forum](https
 your question. If not just create a new topic. Or maybe the [support wiki](https://github.com/foodcoops/foodsoft/wiki/Support) has what you need already.
 
 In case you have an issue with the global platform, you can send an email to
-[hosting@foodcoops.net](mailto:hosting@foodcoops.net).
+[support@unicode-it.de](mailto:support@unicode-it.de).
 
 # Helping out
 

@@ -20,11 +20,11 @@ you can also run it yourself.
 ## Global
 
 Various foodcoops from Europe use the the global hosting platform.
-It is maintained the IT tech collective Rokoli. They'd be happy
+It is maintained the IT tech collective [UNI:CODE](https://unicode-it.de). They'd be happy
 to welcome you on board.
 
 <a href="/global-foodsoft-platform" class="btn btn--inverse">Read more</a>
-<a href="mailto:hosting@foodcoops.net" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
+<a href="mailto:support@unicode-it.de" class="btn btn--inverse"><i class="fa fa-envelope"></i> Contact</a>
 
 ## Austria
 
